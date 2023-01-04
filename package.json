@@ -1,0 +1,14 @@
+{
+    "name": "jest-ffi-minimal-example",
+    "version": "0.0.1",
+    "description": "Minimal example for bug report at jest",
+    "main": "index.js",
+    "private": true,
+    "author": "Mathias Bockwoldt <mathias.bockwoldt@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "ffi-napi": "^4.0.3",
+        "jest": "^29.3.1",
+        "ref-napi": "^3.0.3"
+    }
+}
